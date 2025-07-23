@@ -1,0 +1,7 @@
+D:\wipro July\Day1\CaseEx1\CaseEx1\bin\Debug\CaseEx1.exe.config
+D:\wipro July\Day1\CaseEx1\CaseEx1\bin\Debug\CaseEx1.exe
+D:\wipro July\Day1\CaseEx1\CaseEx1\bin\Debug\CaseEx1.pdb
+D:\wipro July\Day1\CaseEx1\CaseEx1\obj\Debug\CaseEx1.csproj.AssemblyReference.cache
+D:\wipro July\Day1\CaseEx1\CaseEx1\obj\Debug\CaseEx1.csproj.CoreCompileInputs.cache
+D:\wipro July\Day1\CaseEx1\CaseEx1\obj\Debug\CaseEx1.exe
+D:\wipro July\Day1\CaseEx1\CaseEx1\obj\Debug\CaseEx1.pdb

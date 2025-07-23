@@ -1,0 +1,7 @@
+D:\wipro July\Day1\Commit\Commit\bin\Debug\Commit.exe.config
+D:\wipro July\Day1\Commit\Commit\bin\Debug\Commit.exe
+D:\wipro July\Day1\Commit\Commit\bin\Debug\Commit.pdb
+D:\wipro July\Day1\Commit\Commit\obj\Debug\Commit.csproj.AssemblyReference.cache
+D:\wipro July\Day1\Commit\Commit\obj\Debug\Commit.csproj.CoreCompileInputs.cache
+D:\wipro July\Day1\Commit\Commit\obj\Debug\Commit.exe
+D:\wipro July\Day1\Commit\Commit\obj\Debug\Commit.pdb
