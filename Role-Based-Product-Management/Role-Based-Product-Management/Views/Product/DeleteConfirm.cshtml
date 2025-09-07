@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@* @model Role_Based_Product_Management.Models.ViewModels.ProductViewModel
+
+@* <h3>Delete Product</h3>
+<div class="alert alert-warning">
+    Are you sure you want to delete "<strong>@Model.Name</strong>"?
+</div>
+
+<form asp-action="Delete" asp-route-id="@Model.Id" method="post">
+    <button class="btn btn-danger">Yes, delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form> *@ 
+@model Role_Based_Product_Management.Models.ViewModels.ProductViewModel
+@{
+    Layout = "_Layout";
+}
+
+<h3>Delete Product</h3>
+
+<div class="alert alert-warning">
+    Are you sure you want to delete "<strong>@Model.Name</strong>"?
+</div>
+
+<form asp-action="DeleteConfirmed" asp-route-id="@Model.Id" method="post" class="mt-3">
+    @Html.AntiForgeryToken()
+    <button class="btn btn-danger">Yes, delete</button>
+    <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+</form>
+
+
+

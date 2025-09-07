@@ -1,0 +1,122 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@* @model Role_Based_Product_Management.Controllers.RegisterViewModel
+@{
+    ViewData["Title"] = "Register"; Layout = "_Layout";
+}
+<h3>Register</h3>
+<form asp-action="Register" method="post" class="card p-3">
+    <div class="mb-2">
+        <label class="form-label">Username</label>
+        <input asp-for="Username" class="form-control" />
+        <span asp-validation-for="Username" class="text-danger"></span>
+    </div>
+    <div class="mb-2">
+        <label class="form-label">Email</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="mb-2">
+        <label class="form-label">Password</label>
+        <input asp-for="Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Role</label>
+        <select asp-for="Role" class="form-select">
+            <option value="Admin">Admin</option>
+            <option value="Manager">Manager</option>
+        </select>
+        <span asp-validation-for="Role" class="text-danger"></span>
+    </div>
+    <button class="btn btn-primary">Register</button>
+    <a asp-action="Login" class="btn btn-link">Login</a>
+</form>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+} *@
+
+
+
+
+
+
+
+
+
+@* @model Role_Based_Product_Management.Controllers.RegisterViewModel
+<h3>Register</h3>
+<form asp-action="Register" method="post" class="card p-3">
+    <!-- Username/Email/Password fields -->
+    @if (User.IsInRole("Admin"))
+    {
+        <div class="mb-3">
+            <label class="form-label">Role</label>
+            <select asp-for="Role" class="form-select">
+                <option value="Admin">Admin</option>
+                <option value="Manager">Manager</option>
+            </select>
+        </div>
+    }
+    else
+    {
+        <input type="hidden" asp-for="Role" value="Manager" />
+    }
+    <button class="btn btn-primary">Register</button>
+</form> *@
+
+@model Role_Based_Product_Management.Controllers.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_Layout";
+}
+<h3>Register</h3>
+
+<form asp-action="Register" method="post" class="card p-3">
+    @Html.AntiForgeryToken()
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="mb-2">
+        <label class="form-label">Username</label>
+        <input asp-for="Username" class="form-control" />
+        <span asp-validation-for="Username" class="text-danger"></span>
+    </div>
+
+    <div class="mb-2">
+        <label class="form-label">Email</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Password</label>
+        <input asp-for="Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    @* Only Admins see the Role dropdown; others are forced to Manager *@
+    @if (User.IsInRole("Admin"))
+    {
+        <div class="mb-3">
+            <label class="form-label">Role</label>
+            <select asp-for="Role" class="form-select">
+                <option value="Admin">Admin</option>
+                <option value="Manager">Manager</option>
+            </select>
+            <span asp-validation-for="Role" class="text-danger"></span>
+        </div>
+    }
+    else
+    {
+        <input type="hidden" asp-for="Role" value="Manager" />
+    }
+
+    <button class="btn btn-primary w-100">Register</button>
+    <a asp-action="Login" class="btn btn-link">Already have an account? Login</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

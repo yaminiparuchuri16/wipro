@@ -1,0 +1,613 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\wiprocore\\E-Commerce1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\controllers\\adminorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\controllers\\adminorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\models\\adminlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\models\\adminlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\models\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\models\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\middleware\\adminactionloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\middleware\\adminactionloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\e-commerce1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\e-commerce1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\dtos\\orderstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\dtos\\orderstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\dtos\\paymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\dtos\\paymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\dtos\\paymentprocessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\dtos\\paymentprocessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\dtos\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\dtos\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\dtos\\cartadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\dtos\\cartadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\dtos\\setcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\dtos\\setcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|c:\\users\\user\\wiprocore\\e-commerce1\\e-commerce1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921D149-6F38-409E-9155-6B0030B00893}|E-Commerce1\\E-Commerce1.csproj|solutionrelative:e-commerce1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "E-Commerce1\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:16:38.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "E-Commerce1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:20:44.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Program.cs",
+              "RelativeToolTip": "E-Commerce1\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:19:22.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "E-Commerce1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:15:14.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\AdminOrdersController.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Controllers\\AdminOrdersController.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\AdminOrdersController.cs",
+              "RelativeToolTip": "E-Commerce1\\Controllers\\AdminOrdersController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:08:34.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "E-Commerce1\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:18:13.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\Product.cs",
+              "RelativeToolTip": "E-Commerce1\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA3wAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:09:26.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\DTOs\\ProductUpdateDto.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\ProductUpdateDto.cs",
+              "RelativeToolTip": "E-Commerce1\\DTOs\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:30:09.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "E-Commerce1\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAiwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:45:58.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "E-Commerce1\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:06:06.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Commerce1\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\appsettings.json",
+              "RelativeToolTip": "E-Commerce1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T06:31:54.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\AdminProductsController.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Controllers\\AdminProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\AdminProductsController.cs",
+              "RelativeToolTip": "E-Commerce1\\Controllers\\AdminProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:06:17.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Data\\DbContext.cs",
+              "RelativeToolTip": "E-Commerce1\\Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:46:08.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminLog.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\AdminLog.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Models\\AdminLog.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\AdminLog.cs",
+              "RelativeToolTip": "E-Commerce1\\Models\\AdminLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:39:46.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\PaymentResponse.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Models\\PaymentResponse.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\PaymentResponse.cs",
+              "RelativeToolTip": "E-Commerce1\\Models\\PaymentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:11:45.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\PaymentRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Models\\PaymentRequest.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\PaymentRequest.cs",
+              "RelativeToolTip": "E-Commerce1\\Models\\PaymentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:11:23.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\OrderItem.cs",
+              "RelativeToolTip": "E-Commerce1\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:10:52.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\Order.cs",
+              "RelativeToolTip": "E-Commerce1\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:10:18.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\CartItem.cs",
+              "RelativeToolTip": "E-Commerce1\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:09:55.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\User.cs",
+              "RelativeToolTip": "E-Commerce1\\Models\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:49:44.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminActionLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\MiddleWare\\AdminActionLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\MiddleWare\\AdminActionLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\MiddleWare\\AdminActionLoggingMiddleware.cs",
+              "RelativeToolTip": "E-Commerce1\\MiddleWare\\AdminActionLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:35:45.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "E-Commerce1.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\E-Commerce1.csproj",
+              "RelativeDocumentMoniker": "E-Commerce1\\E-Commerce1.csproj",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\E-Commerce1.csproj",
+              "RelativeToolTip": "E-Commerce1\\E-Commerce1.csproj",
+              "ViewState": "AgIAABMAAACgRdVRilYowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-28T06:04:20.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderStatusUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\OrderStatusUpdateDto.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\DTOs\\OrderStatusUpdateDto.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\OrderStatusUpdateDto.cs",
+              "RelativeToolTip": "E-Commerce1\\DTOs\\OrderStatusUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:33:55.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\PaymentResponseDto.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\DTOs\\PaymentResponseDto.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\PaymentResponseDto.cs",
+              "RelativeToolTip": "E-Commerce1\\DTOs\\PaymentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:33:17.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PaymentProcessDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\PaymentProcessDto.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\DTOs\\PaymentProcessDto.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\PaymentProcessDto.cs",
+              "RelativeToolTip": "E-Commerce1\\DTOs\\PaymentProcessDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:32:43.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CheckoutDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\CheckoutDto.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\DTOs\\CheckoutDto.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\CheckoutDto.cs",
+              "RelativeToolTip": "E-Commerce1\\DTOs\\CheckoutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:32:11.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CartAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\CartAddDto.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\DTOs\\CartAddDto.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\CartAddDto.cs",
+              "RelativeToolTip": "E-Commerce1\\DTOs\\CartAddDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:31:37.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SetCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\SetCategoryDto.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\DTOs\\SetCategoryDto.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\SetCategoryDto.cs",
+              "RelativeToolTip": "E-Commerce1\\DTOs\\SetCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:31:00.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "E-Commerce1\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:28:39.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "E-Commerce1\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:27:55.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "E-Commerce1\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:27:16.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "E-Commerce1\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:26:43.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "E-Commerce1\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:10:30.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "E-Commerce1\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:24:17.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "E-Commerce1\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\User\\wiprocore\\E-Commerce1\\E-Commerce1\\Controllers\\CartController.cs",
+              "RelativeToolTip": "E-Commerce1\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:23:25.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

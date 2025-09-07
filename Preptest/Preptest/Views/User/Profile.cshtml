@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "User Profile";
+}
+
+<h2>Welcome, User! Here is your profile information.</h2>
+
+<form asp-action="Logout" asp-controller="Account" method="post">
+    @Html.AntiForgeryToken()
+    <button type="submit">Logout</button>
+</form>

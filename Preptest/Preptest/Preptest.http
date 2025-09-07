@@ -1,0 +1,6 @@
+@Preptest_HostAddress = http://localhost:5032
+
+GET {{Preptest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
