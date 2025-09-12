@@ -1,0 +1,11 @@
+
+# Placeholder Azure pipeline. Replace with your org details.
+trigger:
+- main
+pool:
+  vmImage: 'ubuntu-latest'
+steps:
+- script: |
+    dotnet build backend/Ecommerce.Api/Ecommerce.Api.csproj
+    npm ci --prefix frontend
+  displayName: 'Build API and Frontend'

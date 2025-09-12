@@ -1,0 +1,17 @@
+
+version: '3.8'
+services:
+  api:
+    build: ./../backend/Ecommerce.Api
+    ports:
+      - "5000:8080"
+    volumes:
+      - api_data:/app
+  web:
+    build: ./../frontend
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_API_BASE=http://localhost:5000/api
+volumes:
+  api_data:

@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Ecommerce.Api": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5000",
+      "launchUrl": "index.html"
+    }
+  }
+}
